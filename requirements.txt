@@ -45,4 +45,3 @@ plotly>=6,<7
 bqplot
 
 # extensions
-jupyterlab-filesystem-access>=0.6.0
